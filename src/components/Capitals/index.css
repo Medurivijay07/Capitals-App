@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.capitals-card {
+  background-color: #f8fafc;
+  padding: 20px;
+  border-radius: 10px;
+}
